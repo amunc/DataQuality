@@ -1,0 +1,1 @@
+Esta carpeta es utilizada por el programa para leer la muestra de datos
