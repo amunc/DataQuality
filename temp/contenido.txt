@@ -1,1 +1,0 @@
-Esta carpeta es utilizada por el programa para alojar ficheros temporales
